@@ -1,0 +1,21 @@
+{
+  "name": "felipe-mendes-slack-theme-spp-rmx",
+  "displayName": "Slack Theme (SchponzeePlusPlus Remix) - Felipe Mendes",
+  "description": "SchponzeePlusPlus Custom Edit",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Slack Theme Dark Mode (SchponzeePlusPlus Remix)",
+        "uiTheme": "hc-black",
+        "path": "./themes/Slack Theme Dark Mode (SchponzeePlusPlus Remix)-color-theme.json"
+      }
+    ]
+  }
+}
