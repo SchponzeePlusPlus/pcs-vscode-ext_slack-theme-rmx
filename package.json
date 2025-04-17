@@ -1,16 +1,22 @@
 {
-    //"name": "felipe-mendes-slack-theme-spp-rmx",
     "name": "colour-theme_spp-collection",
-    //"displayName": "Slack Theme (SchponzeePlusPlus Remix) - Felipe Mendes",
+    "nameoldDontUse": "felipe-mendes-slack-theme-spp-rmx",
+
     "displayName": "Colour Themes: SchponzeePlusPlus' Collection",
-    //"description": "SchponzeePlusPlus Custom Edit",
+    "displayNameOldDontUse": "Slack Theme (SchponzeePlusPlus Remix) - Felipe Mendes",
+
     "description": "SchponzeePlusPlus' Original & Remixed Colour Themes Collection",
+    "descriptionOldDontUse": "SchponzeePlusPlus Custom Edit",
+
     "version": "0.0.1",
-    // "version": "1.9.17", Felipe Mendes' version
+    "versionFelipeMendesVersionOldDontUse": "1.9.17",
+
     "publisher": "SchponzeePlusPlus",
     "engines": {
-        //"vscode": "^1.99.0" code gen version
-        "vscode": "^1.17.0"
+        
+        "vscode": "^1.17.0",
+        "vscodeCodeGenVersionOldDontUse": "^1.99.0"
+
     },
     "categories": [
         "Themes"
