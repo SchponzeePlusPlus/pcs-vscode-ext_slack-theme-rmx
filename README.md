@@ -1,3 +1,5 @@
+# README.md
+
 # Slack Theme for [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme)
 
 ![Version](https://vsmarketplacebadge.apphb.com/version-short/felipe-mendes.slack-theme.svg)
@@ -72,3 +74,9 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+~~felipe-mendes-slack-theme-spp-rmx~~
+
+~~pcs-vscode-ext_slack-theme-rmix~~
+
+pcsg_vs-code-ext_colour-theme-collectn
