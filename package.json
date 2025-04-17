@@ -1,10 +1,15 @@
 {
+    //"name": "felipe-mendes-slack-theme-spp-rmx",
     "name": "slack-theme",
+    //"displayName": "Slack Theme (SchponzeePlusPlus Remix) - Felipe Mendes",
     "displayName": "Slack Theme",
+    //"description": "SchponzeePlusPlus Custom Edit",
     "description": "Color scheme inspired by Slack's default themes",
-    "version": "1.9.17",
+    "version": "0.0.1",
+    // "version": "1.9.17", Felipe Mendes' version
     "publisher": "felipe-mendes",
     "engines": {
+        //"vscode": "^1.99.0" code gen version
         "vscode": "^1.17.0"
     },
     "categories": [
@@ -82,6 +87,11 @@
                 "label": "Slack Theme Dark Mode",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark-mode.json"
+            }
+            {
+                "label": "Slack Theme Dark Mode (SchponzeePlusPlus Remix)",
+                "uiTheme": "hc-black",
+                "path": "./themes/Slack Theme Dark Mode (SchponzeePlusPlus Remix)-color-theme.json"
             }
         ]
     },
