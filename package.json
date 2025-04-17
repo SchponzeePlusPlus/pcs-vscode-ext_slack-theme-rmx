@@ -1,13 +1,13 @@
 {
     //"name": "felipe-mendes-slack-theme-spp-rmx",
-    "name": "slack-theme",
+    "name": "colour-theme_spp-collection",
     //"displayName": "Slack Theme (SchponzeePlusPlus Remix) - Felipe Mendes",
-    "displayName": "Slack Theme",
+    "displayName": "Colour Themes: SchponzeePlusPlus' Collection",
     //"description": "SchponzeePlusPlus Custom Edit",
-    "description": "Color scheme inspired by Slack's default themes",
+    "description": "SchponzeePlusPlus' Original & Remixed Colour Themes Collection",
     "version": "0.0.1",
     // "version": "1.9.17", Felipe Mendes' version
-    "publisher": "felipe-mendes",
+    "publisher": "SchponzeePlusPlus",
     "engines": {
         //"vscode": "^1.99.0" code gen version
         "vscode": "^1.17.0"
@@ -34,64 +34,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Slack Theme Aubergine",
-                "uiTheme": "vs",
-                "path": "./themes/aubergine-new.json"
-            },
-            {
-                "label": "Slack Theme Aubergine",
-                "uiTheme": "vs-dark",
-                "path": "./themes/aubergine.json"
-            },
-            {
-                "label": "Slack Theme Aubergine Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/aubergine-dark.json"
-            },
-            {
-                "label": "Slack Theme Monument",
-                "uiTheme": "vs-dark",
-                "path": "./themes/monument.json"
-            },
-            {
-                "label": "Slack Theme Ochin",
-                "uiTheme": "vs",
-                "path": "./themes/ochin.json"
-            },
-            {
-                "label": "Slack Theme Work Hard",
-                "uiTheme": "vs-dark",
-                "path": "./themes/work-hard.json"
-            },
-            {
-                "label": "Slack Theme Choco Mint",
-                "uiTheme": "vs-dark",
-                "path": "./themes/choco-mint.json"
-            },
-            {
-                "label": "Slack Theme Hoth",
-                "uiTheme": "vs",
-                "path": "./themes/hoth.json"
-            },
-            {
-                "label": "Slack Theme Protanopia & Deuteranopia",
-                "uiTheme": "vs-dark",
-                "path": "./themes/protanopia-deuteranopia.json"
-            },
-            {
-                "label": "Slack Theme Tritanopia",
-                "uiTheme": "vs-dark",
-                "path": "./themes/tritanopia.json"
-            },
-            {
-                "label": "Slack Theme Dark Mode",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dark-mode.json"
-            }
-            {
-                "label": "Slack Theme Dark Mode (SchponzeePlusPlus Remix)",
+                "label": "Slack Theme Dark Mode (SchponzeePlusPlus Remix) - Felipe Mendes",
                 "uiTheme": "hc-black",
-                "path": "./themes/Slack Theme Dark Mode (SchponzeePlusPlus Remix)-color-theme.json"
+                "path": "./themes/colour-theme_felipe-mendes_slack-theme_dark-mode-spp-rmx.json"
             }
         ]
     },

@@ -77,6 +77,8 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 ~~felipe-mendes-slack-theme-spp-rmx~~
 
-~~pcs-vscode-ext_slack-theme-rmix~~
+~~pcs-vscode-ext_slack-theme-rmx~~
 
 pcsg_vs-code-ext_colour-theme-collectn
+
+PCSG: SchponzeePlusPlus' VS Code Extensions Colour Theme Collection
